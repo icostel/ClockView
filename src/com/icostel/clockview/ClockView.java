@@ -109,6 +109,7 @@ public class ClockView extends View {
             mHourSweepPaint.setStrokeCap(Paint.Cap.ROUND);
             mMinutesSweepPaint.setStrokeWidth(mClockStrokeWidth);
             mMinutesSweepPaint.setStrokeCap(Paint.Cap.ROUND);
+            mMinutesSweepPaint.setStrokeWidth(mClockStrokeWidth);
             // when the view is ready the msg(runnable) will be handled
             post(new Runnable() {
                 @Override
