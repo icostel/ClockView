@@ -1,0 +1,18 @@
+<resources>
+
+    <declare-styleable name="ClockView">
+        <attr name="clockStrokeColor" format="color" />
+        <attr name="clockStrokeWidth" format="integer" />
+        <attr name="hourFillColor" format="color" />
+        <attr name="minutesFillColor" format="color" />
+        <attr name="clockRadius" format="integer" />
+        <attr name="useAntiAlias" format="boolean" />
+        <attr name="hour" format="integer" />
+        <attr name="minutes" format="integer" />
+        <attr name="hourRadius" format="integer" />
+        <attr name="minutesRadius" format="integer" />
+        <attr name="minutesVisible" format="boolean" />
+        <attr name="hourVisible" format="boolean" />
+    </declare-styleable>
+
+</resources>

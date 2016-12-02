@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Amber android material swatches https://material.google.com/style/color.html#color-color-palette -->
+    <item name="parentBackground" type="color">#FFFFF8E1</item>
+    <item name="clockStrokeColor" type="color">#FFFFECB3</item>
+    <item name="hourFillColor" type="color">#FFFFD54F</item>
+    <item name="minutesFillColor" type="color">#FFFFD54F</item>
+    <item name="actionBarColor" type="color">#FFFFE082</item>
+    <item name="timeColor" type="color">#FFFFD54F</item>
+
+</resources>
