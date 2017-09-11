@@ -1,6 +1,6 @@
 The clock view
 
-![alt tag](https://github.com/icostel/ClockView/blob/master/just_clock_view.png)
+<img src="https://github.com/icostel/ClockView/blob/master/just_clock_view.png" width="200" height="500">
 
 Clock view used with some textview to display it's hour and minutes
 
